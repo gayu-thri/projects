@@ -3,14 +3,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: lightyellow;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: black;
     border-radius: 0;
     border: 0;
 }
@@ -34,8 +34,8 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
-    font-family: 'Abril Fatface', cursive;
+    color: white;
+    font-family: 'Ranchers', cursive;
     font-weight: bolder;
     font-size: 1.8em;
 }
@@ -92,9 +92,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #e4af34;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 10px #e4af34;
 }
 
 
